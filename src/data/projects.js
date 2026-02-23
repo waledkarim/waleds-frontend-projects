@@ -14,7 +14,7 @@ const projects = [
     enabled: false,
   },
   {
-    title: "10 Minute's School Landing Page",
+    title: "10 Minute School Landing Page",
     link: "https://waled-ten-minute-school.vercel.app/",
     description:
       "This is 10 Minute School's landing page created using Next.js",
