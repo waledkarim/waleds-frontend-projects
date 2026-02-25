@@ -12,6 +12,7 @@ export default function Home() {
             key={i}
             title={project.title}
             link={project.link}
+            github={project.github}
             description={project.description}
             enabled={project.enabled}
           />
