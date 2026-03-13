@@ -23,6 +23,13 @@ const projects = [
       "This is 10 Minute School's landing page created using Next.js",
     enabled: false,
   },
+  {
+    title: "Github's Contribution Graph Component",
+    link: "https://waledkarim.github.io/Github_Contributions_Graph/",
+    github: "https://github.com/waledkarim/Github_Contributions_Graph",
+    description: "This is Github's contribution graph component re-made.",
+    enabled: false,
+  },
 ];
 
 export default projects;
