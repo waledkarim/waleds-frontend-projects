@@ -16,6 +16,13 @@ const projects = [
     enabled: false,
   },
   {
+    title: "Nike Landing Page",
+    link: "https://waledkarim.github.io/nike/",
+    github: "https://github.com/waledkarim/nike",
+    description: "Nike's landing page re-imagined.",
+    enabled: false,
+  },
+  {
     title: "10 Minute School Landing Page",
     link: "https://waled-ten-minute-school.vercel.app/",
     github: "https://github.com/waledkarim/tenms_task",
